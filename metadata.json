@@ -1,0 +1,5 @@
+{
+  "name": "AI Trip Concierge",
+  "description": "An intelligent travel planner that generates personalized trip itineraries using AI. Input your destination, interests, and budget, and get a detailed, day-by-day plan.",
+  "requestFramePermissions": []
+}
